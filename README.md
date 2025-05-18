@@ -1,8 +1,7 @@
 # Kwazam Chess
-
----
 [▶️ Watch Demo Video](https://youtu.be/2K_3BtAVkg4)
 <br>
+---
 
 ## 📝 Description
 
