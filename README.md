@@ -1,11 +1,11 @@
-#CCP6224 Object Oriented Analysis and Design Project Term 2430
+**CCP6224 Object Oriented Analysis and Design Project Term 2430**
 By Group F_TT1L 
 Group Leader: Ngan Li Syuen 1211108613
 Group Member: Kuan Chee Ling 1211112202
               Yap Sze Thin 1211108889
               Yap Yan Ting 1211111321
 
-Description:
+**Description:**
 Kwazam Chess is a GUI-based, two-player game played on a 5x8 board.
 The game involves players controlling unique pieces with specific movement rules,
 such as the Ram, Biz, Tor, Xor, and Sau.
@@ -13,7 +13,7 @@ The objective is to capture the opponent's Sau piece, leading to a win.
 The game includes dynamic mechanics like transforming pieces and
 highlights possible moves for selected pieces, providing a strategic and engaging chess variant.
 
-Usage of Design Patterns:
+**Usage of Design Patterns:**
 1. Model-View-Controller (MVC) design pattern
 - Ensure clear separation of concerns and modular code organization.
 - The 3 components of MVC are Model, View, and Controller.
@@ -51,7 +51,7 @@ Usage of Design Patterns:
        - Load: Pops the latest memento from the stack then restores the game state via the Gameboard.
 
 
-Compile and Run Instructions:
+**Compile and Run Instructions:**
 Command Prompt
 1. Open terminal and navigate to directory.
    Replace '/path/to/your/files' with the actual path where your Java source files are located:
