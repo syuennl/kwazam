@@ -1,19 +1,8 @@
 # Kwazam Chess
 
-**CCP6224 Object Oriented Analysis and Design Project (Term 2430)**
-**Group F\_TT1L**
-
-* **Group Leader**: Ngan Li Syuen (1211108613)
-* **Group Members**:
-
-  * Kuan Chee Ling (1211112202)
-  * Yap Sze Thin (1211108889)
-  * Yap Yan Ting (1211111321)
-
 ---
 [▶️ Watch Demo Video](https://youtu.be/2K_3BtAVkg4)
 <br>
----
 
 ## 📝 Description
 
