@@ -99,7 +99,7 @@ Implements save/load functionality to restore game states.
    java KwazamChessProgram
    ```
 
-> ✅ Ensure that **Java Development Kit (JDK)** is installed and added to your PATH.
+> ✅ Ensure that **Java Development Kit (JDK)** is installed and added to your PATH. <br>
 > ⚠️ Commands are case-sensitive.
 
 ---
