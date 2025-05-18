@@ -1,0 +1,20 @@
+Current Team: blue
+Current Turn: 14(Round 7)
+Current Position: 
+Name | Team | Row | Column | ImagePath | isMovingForward
+Xor, red, 0, 0, /pieces/redXor.png, -
+Biz, red, 0, 1, /pieces/redBiz.png, -
+Sau, red, 0, 2, /pieces/redSau2.png, -
+Ram, blue, 0, 3, /pieces/blueRam2.png, false
+Tor, red, 0, 4, /pieces/redTor.png, -
+Ram, red, 1, 0, /pieces/redRam2.png, true
+Ram, red, 1, 2, /pieces/redRam2.png, true
+Ram, red, 1, 4, /pieces/redRam2.png, true
+Ram, blue, 6, 0, /pieces/blueRam.png, true
+Ram, red, 6, 1, /pieces/redRam.png, false
+Ram, blue, 6, 2, /pieces/blueRam.png, true
+Ram, blue, 6, 4, /pieces/blueRam.png, true
+Tor, blue, 7, 0, /pieces/blueTor.png, -
+Sau, blue, 7, 2, /pieces/blueSau.png, -
+Biz, blue, 7, 3, /pieces/blueBiz.png, -
+Xor, blue, 7, 4, /pieces/blueXor.png, -
